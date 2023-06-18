@@ -9,8 +9,8 @@
 //thingspeak dan koneksi wifi
 const char * myWriteAPIKey = "E5HT8NGK54DWY134";
 unsigned long myChannelNumber = 2141311;
-const char *ssid =  "Calistu Ionut Home";    
-const char *pass =  "MeRiCaNut2714"; 
+const char *ssid =  "ur ssid/wifi ";    
+const char *pass =  " password "; 
 WiFiClient client;
 
 //pin sensor dan esp
