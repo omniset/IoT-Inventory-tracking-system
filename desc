@@ -2,3 +2,21 @@ final project for IoT exam
 using node mcu esp 8266 as microcontroller, color sensor, and rfid rc 5266, and thingspeak as monitoring application 
 using wifi for the connectivity 
 and using arduino ide and fritzing for the diagram
+
+
+tools:
+hardware: 
+  1. Laptop/pc
+  2. Esp 8266/32
+  3. Color sensor TCS 3200
+  4. RFID RC522
+  5. jumper wire
+  6. breadboard
+  7. usb cable
+  
+software:
+  1. arduino IDE
+  2. fritzzing
+  3. thing speak IoT
+  4. chatgpt
+  5. visual studio code
